@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Categories=Office;Dictionary;Education;Qt
+Name=TDNdict
+GenericName=Multiformat Dictionary
+Comment=TDNdict
+Encoding=UTF-8
+Icon=TDNdict
+Exec=TDNdict
+
